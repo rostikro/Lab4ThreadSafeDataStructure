@@ -1,3 +1,3 @@
 # Lab4ThreadSafeDataStructure
 
-Відео - https://youtu.be/1M6kVWa0CVA
+Відео - https://youtu.be/zFDbZOxW2pI
